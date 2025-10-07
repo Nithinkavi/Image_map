@@ -156,11 +156,13 @@ Periyandavar Temple.html
 ```
 
 # OUTPUT
+
+![alt text](<Screenshot 2025-10-07 222224.png>)
 ![alt text](<Screenshot 2025-10-07 223334.png>)
 ![alt text](<Screenshot 2025-10-07 223428.png>)
 ![alt text](<Screenshot 2025-10-07 223541.png>)
 ![alt text](<Screenshot 2025-10-07 223625.png>)
-![alt text](<Screenshot 2025-10-07 222224.png>)
+
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
